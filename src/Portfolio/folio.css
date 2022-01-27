@@ -1,0 +1,64 @@
+.root {
+  border-radius: 12px;
+  min-width: 256px;
+  text-align: center;
+  background-color: rgb(219, 224, 230) !important;
+  color: rgb(22, 24, 6)important;
+}
+
+.portfolio_header {
+  margin-top: 3rem;
+  color: rgb(12, 23, 45);
+}
+
+.bullet {
+  display: inline-block;
+  margin: '0 2 px';
+  transform: scale(0.8);
+}
+
+.title {
+  color: rgb(0, 82, 136) !important;
+  font-size: 24px !important;
+}
+
+.card-header {
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+
+.card-container {
+  margin-top: 1rem;
+}
+
+.pos {
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: rgb(4, 80, 42);
+}
+
+.balance {
+  margin-top: 1rem !important;
+  font-size: 27px !important;
+  color: rgb(245, 20, 20);
+}
+
+.btn_wallet {
+  width: 30%;
+  background-color: tomato !important;
+  color: white !important;
+  font-size: larger !important;
+}
+
+.btn_wallet_container {
+  margin-top: 3rem;
+  display: flex;
+  height: 30% !important;
+  justify-content: center;
+}
+
+.loadingPanel {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
